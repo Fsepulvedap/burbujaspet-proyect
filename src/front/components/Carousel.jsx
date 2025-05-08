@@ -6,7 +6,7 @@ import BANNER3 from "./BANNER3.png"
 export const Carousel = () => {
 
     return (
-        <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel" >
             <div className="carousel-inner">
                 <div className="carousel-item active" data-bs-interval="10000">
                     <img src={BANNER1} className="d-block w-100" alt="BANNER1"/>

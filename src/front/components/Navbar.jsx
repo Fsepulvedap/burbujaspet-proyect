@@ -7,7 +7,7 @@ import BT_USUARIO from "./BT_USUARIO.png"
 export const Navbar = () => {
 
 	return (
-		<nav className="navbar navbar-expand-lg bg-transparent m-3 ">
+		<nav className="navbar navbar-expand-lg bg-transparent m-3 position-fixed w-100 top-0">
 			<div className="container-fluid">
 				<div>
 					<a className="navbar-brand" href="/">
