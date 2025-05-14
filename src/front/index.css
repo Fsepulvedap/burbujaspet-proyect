@@ -1,5 +1,5 @@
 body{
-    background-color: lightgrey;
+    background-color: ffffff;
 }
 
 li{
@@ -22,3 +22,8 @@ li{
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.3);
 } 
+
+.flyers{
+    margin-top: 100px;
+    margin-left: 130px;    
+}
