@@ -1,8 +1,8 @@
 
-import LOGO_01 from "./LOGO_01.png"
-import BT_LUPA from "./BT_LUPA.png"
-import BT_CARRITO from "./BT_CARRITO.png"
-import BT_USUARIO from "./BT_USUARIO.png"
+import LOGO_01 from "../assets/img/LOGO_01.png"
+import BT_LUPA from "../assets/img/BT_LUPA.png"
+import BT_CARRITO from "../assets/img/BT_CARRITO.png"
+import BT_USUARIO from "../assets/img/BT_USUARIO.png"
 
 export const Navbar = () => {
 
@@ -15,6 +15,7 @@ export const Navbar = () => {
 							src={LOGO_01}
 							alt="Our Logo"
 							style={{
+								marginRight:"100px",
 								width: "235px",
 								height: "97px",
 							}}
@@ -49,6 +50,7 @@ export const Navbar = () => {
 							src={BT_LUPA}
 							alt="Our Logo"
 							style={{
+								marginLeft:"100px",
 								width: "38px",
 								height: "51px",
 							}}
