@@ -1,6 +1,6 @@
-import BANNER1 from "./BANNER1.png"
-import BANNER2 from "./BANNER2.png"
-import BANNER3 from "./BANNER3.png"
+import BANNER1 from "../assets/img/BANNER1.png"
+import BANNER2 from "../assets/img/BANNER2.png"
+import BANNER3 from "../assets/img/BANNER3.png"
 
 
 export const Carousel = () => {
