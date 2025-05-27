@@ -2,7 +2,7 @@ import logoFooter from "../assets/img/logoFooter.png"
 
 
 export const Footer = () => (
-	<footer className="footer mt-auto py-3 text-center">
+	<footer className="footer py-3 text-center">
 		<img 
 			src={logoFooter} 
 			className="logoFooter" 

@@ -1,5 +1,5 @@
 body {
-  background-color: ffffff;
+  background-color: #ffffff;
 }
 
 li {
@@ -63,6 +63,7 @@ li {
 }
 
 .footer {
+  margin-top: 100px;
   display: flex;  
   background-color: #66d9d9;
   height: 421px;

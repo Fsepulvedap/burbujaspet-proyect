@@ -13,7 +13,7 @@ export const Youtube = () => {
                     </h1>
                     <br/>
                     <p>
-                        BurbujasPet,BurbujasPet, nació de la pasión por los animales y la necesidad de ofrecer un servicio de baño que esté centrado en el bienestar de las mascotas y la comodidad de sus dueños. Nos dimos cuenta de que muchas personas desean bañar a sus mascotas ellos mismos, pero a menudo se enfrentan a dificultades como la falta de espacio, equipos inadecuados o simplemente la incomodidad de hacerlo en casa.
+                        BurbujasPet, nació de la pasión por los animales y la necesidad de ofrecer un servicio de baño que esté centrado en el bienestar de las mascotas y la comodidad de sus dueños. Nos dimos cuenta de que muchas personas desean bañar a sus mascotas ellos mismos, pero a menudo se enfrentan a dificultades como la falta de espacio, equipos inadecuados o simplemente la incomodidad de hacerlo en casa.
                     </p>
                 </div>
             </div>
