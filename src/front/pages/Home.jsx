@@ -3,6 +3,7 @@ import useGlobalReducer from "../hooks/useGlobalReducer.jsx";
 import { Carousel } from "../components/Carousel.jsx";
 import { Flyers } from "../components/Flyers.jsx"
 import { Youtube } from "../components/Youtube.jsx";
+import { Menu } from "../components/Menu.jsx";
 
 
 
@@ -41,6 +42,7 @@ export const Home = () => {
 		<Carousel/>
 		<Flyers/>
 		<Youtube/>
+		<Menu/>
 		<h1>Hola mundo!!</h1>
 		</>
 	);
