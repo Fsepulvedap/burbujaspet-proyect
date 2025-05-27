@@ -42,8 +42,7 @@ export const Home = () => {
 		<Carousel/>
 		<Flyers/>
 		<Youtube/>
-		<Menu/>
-		<h1>Hola mundo!!</h1>
+		<Menu/>		
 		</>
 	);
 }; 
