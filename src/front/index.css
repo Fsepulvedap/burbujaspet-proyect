@@ -61,3 +61,13 @@ li {
   margin-top: 100px;
   margin-left: 180px;
 }
+
+.footer {
+  display: flex;  
+  background-color: #66d9d9;
+  }
+
+.logoFooter {
+  background-color: #ffffff;
+  margin-left: 40px;  
+}
