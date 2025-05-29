@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
 }
 
-li {
+.navbar li {
   font-weight: bold;
 }
 
@@ -31,27 +31,34 @@ li {
 .youtube {
   margin-top: 30px;  
   width: 100%;
-  padding: 60px 100px 50px;
+  padding: 100px 200px 10px;
   background-color: #ccf2f2;
 }
+
 .texto1 h1 {
-  padding-top: 50px;  
+  padding-top: 40px;  
   text-align: center;
-  font-family: Alegreya Sans;
+  font-family: "Alegreya Sans";
   color: #003d5b;
   font-weight: 700;
   font-style: italic;
   font-size: 50px;
-  line-height: 100%;
+  line-height: normal;
   letter-spacing: 0%;
   vertical-align: middle;
 }
 
 .texto1 p {
-  font-family: Montserrat;
+  width: 435px;
+  height: 269px;
+  display: flex;
+  justify-content: center;
+  color: #231F20;
+  font-family: "Montserrat";
   font-weight: 400;
-  font-size: 20px;
-  line-height: 100%;
+  font-size: 16px;
+  font-style: normal;
+  line-height: normal;
   letter-spacing: 0%;
   text-align: center;
   vertical-align: middle;
@@ -63,8 +70,7 @@ li {
 }
 
 .footer {
-  margin-top: 100px;      
-  height: 421px;
+  margin-top: 100px;  
   width: 100%;
 }
 
@@ -81,8 +87,8 @@ li {
   margin-top: 30px;
   padding-top: 20px;
   background-color: #66d9d9;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
 }
 
 .ayuda{
@@ -93,3 +99,12 @@ li {
   padding-right: 200px;
 }
 
+.footerBottom{
+  height: 190px;  
+  background-color: #66d9d9;
+  border-top-left-radius: 40px;
+}
+
+.imgFooterBottom{
+  margin-bottom: 16px;
+}
